@@ -1,2 +1,2 @@
-# LeetCode2022
+# leetcode2022
 # leetcode for java
